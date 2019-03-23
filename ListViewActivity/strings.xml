@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListViewActivity</string>
+    <string-array name="stringarray">
+
+
+        <item>1. Deger</item>
+
+        <item>2. Deger</item>
+
+        <item>3. Deger</item>
+
+    </string-array>
+
+</resources>
