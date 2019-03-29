@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="MainActivity"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/edittextX"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="X Degeri Giriniz"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/edittextY"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Y Degeri Giriniz"
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/buttonDiger"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Diger Activity" />
+
+        <TextView
+            android:id="@+id/textViewSonuc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textSize="24sp" />
+    </LinearLayout>
+</RelativeLayout>
