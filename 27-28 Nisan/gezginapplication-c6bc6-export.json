@@ -1,0 +1,19 @@
+{
+  "gezdigim" : [ {
+    "imageUrl" : "images/foto1.jpg",
+    "message" : "Karadeniz'in incisi olarak tabir edilen, eşsiz doğasıyla nefes kesen bir şehir Trabzon.",
+    "title" : "Trabzon"
+  }, {
+    "imageUrl" : "images/foto2.jpg",
+    "message" : "Dicle ve Fırat nehirleri arasında yer alan Mardin Güneydoğu Anadolu Bölgesi'nin en çok merak edilen şehirlerinden biridir.",
+    "title" : "Mardin"
+  }, {
+    "imageUrl" : "images/foto3.jpg",
+    "message" : "ürkiye'nin batısında, Ege Denizi'nin kıyısında yer alan Ege'nin İncisi İzmir, Türkiye'nin 3'üncü büyük kentidir.",
+    "title" : "Izmir"
+  }, {
+    "imageUrl" : "images/foto4.jpg",
+    "message" : "Avrupa ve Asya'yı birbirine bağlayan, çok sayıda medeniyetin izlerini taşıyan istanbul",
+    "title" : "Istanbul"
+  } ]
+}
